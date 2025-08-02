@@ -1,0 +1,1 @@
+# Dynamic_Layer_Adaptation_Algorithm_with_MNISTdataset
